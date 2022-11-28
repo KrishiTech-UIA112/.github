@@ -27,7 +27,18 @@ Therefore a software tool/app where the farmer/user can calculate input paramete
 
 ## - Our solution ##
 
+Based on desired yield and crop production, we target 3 parameters:
+ * Irrigation - The amount of water required for irrigation in a particular area
+ * Pesticide - The amount of pesticide needed to keep plant healthy
+ * Fertilizers - The certain amount of fertilizer to get maximum growth
+
 ## - Idea Approach ##
+
+Our objective is to provide input parameters based on desired output of crop. To achieve this we firstly use :
+  
+ * We ask for location, date, crop type, % nutrients of fertilizers and land size.        
+ * We provide the farmers with details about his land and recommendations on required irrigation amount, pesticides amount and multiple other parameters.
+ * Based on the values taken so far we calculate the maximum yield that the farmer.
 
 ## - Block Diagram ##
 
