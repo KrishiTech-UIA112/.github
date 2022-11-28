@@ -63,7 +63,7 @@ Additional Features:
   * Multiple Languages
   * Website can operate on 3G Mobile phones
  
-** - Importance of Fertilizers **
+**Importance of Fertilizers **
 From the graph, wheat with low phosphorus has scanty yield than wheat with sufficient phosphorus. This tells us an  addition of fertilizer to the crop has a huge impact on the yield of the wheat crop.
 
 <p align="center"> 
@@ -72,9 +72,5 @@ From the graph, wheat with low phosphorus has scanty yield than wheat with su
  <img align="center" alt="img" src="https://github.com/KrishiTech-UIA112/.github/blob/main/images/WhatsApp%20Image%202022-11-23%20at%2010.37.41.jpg?raw=true" width="412" height="250" /> 
  
 </p>
-
-** - Amount vs Optimum Fertilizers **
-
-
 
 
