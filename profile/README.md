@@ -45,8 +45,14 @@ Our objective is to provide input parameters based on desired output of crop. To
 ## - Technology Stack ##
 
 ## - What is KrishiTech? ##
-
+Is a website that is used to calculate the output based on input parameters for crop production
+Additional Features:
+  * Seasons Detection
+  * User Friendly
+  * Multiple Languages
+ 
 ## - Importance of Fertilizers ##
+From the graph, wheat with low phosphorus has scanty yield than wheat with sufficient phosphorus. This tells us an  addition of fertilizer to the crop has a huge impact on the yield of the wheat crop.
 
 ## - Amount vs Optimum Fertilizers ##
 
