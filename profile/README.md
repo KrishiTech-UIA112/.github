@@ -20,8 +20,10 @@ Themes:
  # About This Project #
  
 ## - Problem Statement ##
-Develop a software tool/app to calculate/estimate amount of nutrients(fertilizers quantity, irrigation required, pesticide amount, etc.) for a particular crop output.
-![image](https://user-images.githubusercontent.com/80644106/204374195-31e6a0ff-1f5b-4863-b731-ec71ef5dbdcd.png)
+*Aim* : To develop a software tool/app to calculate/estimate amount of nutrients(fertilizers quantity, irrigation required, pesticide amount, etc.) for a particular crop output.
+
+*Description*: Unless the farmer is aware of the varying production function that is observed, there will always remain the high chance of inputs that are incorrect amounts. Precision agriculture is all about optimizing output levels by making the best use of the available, limited inputs.
+Therefore a software tool/app where the farmer/user can calculate input parameters for the desired production output is needed
 
 ## - Our solution ##
 
