@@ -5,10 +5,10 @@ Website Link: (https://uia.mic.gov.in/) </p>
 The UNESCO INDIA – AFRICA Hackathon is an annual 36 hours event that brings together students, educators, teachers, and the research community of India and its African partners to tackle the common challenges faced by their countries and serves as a facilitator for cultural amalgamation.</p>
 <p align="center"> 
 <img align="center" alt="img" src="https://github.com/KrishiTech-UIA112/.github/blob/main/images/pics/photo_2022-11-11_22-49-23.jpg?raw=true" width="300" height="200" /></p>
-
+<p align="center"> 
 The UNESCO INDIA – AFRICA Hackathon provides a suitable platform allowing young innovators to come together and find solutions for social, environmental and technical problems faced by the collaborating nations. It serves as the foundation for creating potential start-ups with the potential to transform the world. It allows the participating students to unleash their creativity and explore new technologies to solve real-world problems under the guidance of experts - thus, spearheading business innovation in the modern world.
 
-Collaboration of the student teams working together to solve shared problems opens the doors to cultural assimilation by introducing students and their mentors to methods, values and manners different from their own.
+Collaboration of the student teams working together to solve shared problems opens the doors to cultural assimilation by introducing students and their mentors to methods, values and manners different from their own.</p>
 
 ![image1](https://github.com/KrishiTech-UIA112/.github/blob/main/images/pics/1667469512474.jpg)
 
