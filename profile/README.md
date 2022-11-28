@@ -1,15 +1,3 @@
-What is UNESCO India Africa Hackathon'22
-About this project:
-- Problem Statement
-- Our solution
-- Idea Approach
-- Block Diagram
-- Technology Stack
-- What is KrishiTech?
-- Importance of Fertilizers
-- Amount vs Optimum Fertilizers
-- Advantages and future scope
-
 # What is UNESCO India Africa Hackathon'22 #
 
 [Website Link](https://uia.mic.gov.in/)
@@ -30,13 +18,24 @@ Themes:
   * Health and Hygiene
  
  # About This Project #
+ 
 ## - Problem Statement ##
+Develop a software tool/app to calculate/estimate amount of nutrients(fertilizers quantity, irrigation required, pesticide amount, etc.) for a particular crop output.
+![image](https://user-images.githubusercontent.com/80644106/204374195-31e6a0ff-1f5b-4863-b731-ec71ef5dbdcd.png)
+
 ## - Our solution ##
+
 ## - Idea Approach ##
+
 ## - Block Diagram ##
+
 ## - Technology Stack ##
+
 ## - What is KrishiTech? ##
+
 ## - Importance of Fertilizers ##
+
 ## - Amount vs Optimum Fertilizers ##
+
 ## - Advantages and future scope ##
 
