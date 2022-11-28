@@ -45,6 +45,16 @@ Our objective is to provide input parameters based on desired output of crop. To
 
 ## - Block Diagram ##
 
+<p align="center"> 
+<img align="center" alt="img" src="https://github.com/KrishiTech-UIA112/.github/blob/main/images/IMG-20221124-WA0004.jpg?raw=true" width="300" height="200" />
+ 
+ <img align="center" alt="img" src="https://github.com/KrishiTech-UIA112/.github/blob/main/images/IMG-20221124-WA0005.jpg?raw=true" width="300" height="200" />
+ 
+ <img align="center" alt="img" src="https://github.com/KrishiTech-UIA112/.github/blob/main/images/IMG-20221124-WA0006.jpg?raw=true" width="300" height="200" />
+ 
+ <img align="center" alt="img" src="https://github.com/KrishiTech-UIA112/.github/blob/main/images/IMG-20221124-WA0007.jpg?raw=true" width="300" height="200" />
+</p>
+
 ## - Technology Stack ##
 
 ## - What is KrishiTech? ##
