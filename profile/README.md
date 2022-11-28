@@ -26,8 +26,17 @@ Themes:
   * Education
   * Energy
   * Drinking Water and Sanitation
-  * Agriculture
-
-
+  * Agriculture (*Our Theme*)
   * Health and Hygiene
  
+ # About This Project #
+## - Problem Statement ##
+## - Our solution ##
+## - Idea Approach ##
+## - Block Diagram ##
+## - Technology Stack ##
+## - What is KrishiTech? ##
+## - Importance of Fertilizers ##
+## - Amount vs Optimum Fertilizers ##
+## - Advantages and future scope ##
+
